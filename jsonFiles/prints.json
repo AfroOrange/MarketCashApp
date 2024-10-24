@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Demonio",
+    "format": "A4",
+    "price": 5,
+    "stock": 10
+  },
+  {
+    "name": "Demonio",
+    "format": "A5",
+    "price": 3,
+    "stock": 10
+  },
+  {
+    "name": "Demonio",
+    "format": "A2",
+    "price": 15,
+    "stock": 10
+  },
+  {
+    "name": "Demonio",
+    "format": "A1",
+    "price": 20,
+    "stock": 10
+  },
+    {
+        "name": "Demonio",
+        "format": "A9",
+        "price": 5,
+        "stock": 10
+    },
+    {
+        "name": "Demonio",
+        "format": "A10",
+        "price": 5,
+        "stock": 10
+    },
+    {
+        "name": "Demonio",
+        "format": "A11",
+        "price": 5,
+        "stock": 10
+    },
+    {
+        "name": "Demonio",
+        "format": "A12",
+        "price": 5,
+        "stock": 10
+    },
+    {
+        "name": "Demonio",
+        "format": "A13",
+        "price": 5,
+        "stock": 10
+    },
+    {
+        "name": "Demonio",
+        "format": "A14",
+        "price": 5,
+        "stock": 10
+    }
+]
